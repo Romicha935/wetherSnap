@@ -1,0 +1,16 @@
+.home-section{
+    text-align: center;
+    margin-top: 40px;
+    padding: 20;
+    background: #f8fafc;
+    border-radius: 12px;
+}
+.home-section h2{
+    font: 20px;
+    margin-bottom: 10px;
+}
+
+.home-section p {
+    font-size: 16px;
+    margin: 6px 0;
+}
