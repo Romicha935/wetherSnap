@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+h1{
+    font-size: 22px;
+    color: #1a202c;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    width: 180px;
+}
+button{
+    padding: 10px 14px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #2563eb;
+}
